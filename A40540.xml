@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and exact relation of the fight betwixt the Henry, an East-India merchant-man, and the Marine, a French man of war of 40 guns, on the coast of Ireland on the 12th of July 1695 written from Ireland by an officer of the said ship.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40540</idno>
+            <idno type="STC">Wing F2277A</idno>
+            <idno type="STC">ESTC R36442</idno>
+            <idno type="EEBO-CITATION">15691222</idno>
+            <idno type="OCLC">ocm 15691222</idno>
+            <idno type="VID">104416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and exact relation of the fight betwixt the Henry, an East-India merchant-man, and the Marine, a French man of war of 40 guns, on the coast of Ireland on the 12th of July 1695 written from Ireland by an officer of the said ship.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.E. and are to be sold by J. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104416:1" rendition="simple:additions"/>
+            <head>
+               <hi>A Full and Exact Relation of the Fight betwixt the</hi> Henry, <hi>an</hi> Eaſt-India <hi>Merchant-man, and the</hi> Marine, <hi>a French Man of War of 40 Guns, on the Coaſt of</hi> Ireland, <hi>on the 12th of</hi> July, 1695.</head>
+            <byline>Written from <hi>Ireland</hi> by an Officer of the ſaid Ship.</byline>
+            <opener>
+               <dateline>
+                  <hi>Dingle Couch,</hi>
+                  <date>
+                     <hi>July</hi> 21. 1695.</date>
+               </dateline> 
+               <salute>Dear Brother,</salute>
+            </opener>
+            <p>IN my laſt I had not time to give you a ſhort Narration of our Voyage and Misfor<g ref="char:EOLhyphen"/>tune ſince we departed <hi>India,</hi> which is as followeth:</p>
+            <p>We departed <hi>Surrat</hi> the 19th of <hi>January,</hi> 1694/5. and ſaw the <hi>Cape of Good<g ref="char:punc">▪</g> Hope</hi> about the 7th of <hi>April;</hi> the 8th, <hi>ditto,</hi> our Gunner by accident blew up, as we did ſuppoſe, in ſmall Caſes, Powder-Horns and Granado-ſhells, above 30 <hi>l.</hi> of Powder in the Gun-room, which fired our Ship. It pleaſed God, by cutting up our Decks, and throwing Water, we quencht it in about two hours. The Gunner died next day by the Wounds he received; his Mate is ſtill living, but has loſt as yet the Uſe of both his Hands. There were ſeveral others that had ſmall hurts. About the 3d or 4th of <hi>May</hi> we ſaw the Iſland <hi>Aſcenſion;</hi> and the 10th of this inſtant we made the Land of <hi>Ireland,</hi> in the Latitude of 54. Degr. or thereabouts, it being very thick hazy Weather, and ſo much Wind and Rain, that we could not deal with it. On <hi>Friday</hi> the 12th Inſtant, about 7 in the morning, we made the <hi>Skellicks,</hi> ſteering directly in with them, ſtill the Wind freſh, thick Weather, and a great Sea. About 10 in the morning we ſaw a Sail without us bearing down; we prepared our Ship for a Fight, and ſtill kept on our Courſe towards the <hi>Skellicks.</hi> Juſt as we got into the Sound, which was about 3 of the Clock, the Ship came up with us under En<g ref="char:EOLhyphen"/>gliſh Colours within a Ships length, and bid us ſtrike for King <hi>James.</hi> We told him, We would not. In Anſwer he ſaid, He would make us preſently, and in a very ſhort time fired his Broad-ſide and Small Shot. We anſwered him with the like Salute. Then he laid us on Board athwart the Harſe, and entred about 100 Men on our Forecaſtle. The Broad-ſide he gave us by Misfortune carried away the Bulk-head of our Cuddy, and laid thoſe Cloſe Quarters quite open, and at the ſame time killed Mr. <hi>John Pluncknett</hi> a Gentleman on Board us; which forc'd the Men that were quartered there to retire into the Steeridge and great Cabbin. At the firſt of the entring, by what Accident I know not, they took our Forecaſtle, where we had 15 Men quartered, of which they carried away 13, and left one dead, and another ſadly mangled, his Right Hand being off, and his Mouth and Jaw ſhot to pieces. All this time from the Steeridge Quarters we gauld them on our Forecaſtle, and on their Quarter and Poop, they ſtill halling away their Dead Men, and re-entring freſh. We forc'd them to forſake the top of our Forecaſtle; then they made themſelves Maſters of the Quarter-deck and Round-houſe, and down our Stair-caſe, which was open, they caſt down G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anada-ſhells and Stink-pots, and fired Piſtols, with which they wounded 2 Men; one of them died afterwards: We had nothing to return that could offend them but Huzzaes, that they might know we were in being; and ſo guarded the Paſſage, that they could not deſcend. In the Interim, after the Ships ſtaying 2 hours or more thwart our Harſe, they caſt round our Starboard Bow along our ſide at about a Ships Breadth diſtance: We gave him a Broad-ſide, at the receiving of which he ſtood off, and brought on the Careen, leaving about 40 or 50 Men on Board us. We forc'd them out of the Round-houſe, and they lodg'd moſt on the Poop (except ſuch as were in our Tops cutting our Rigging, and in our Forecaſtle.) We deſign'd to Sally, but our Small-Arms were all diſabled, having flown out of the Stocks, and cloyed with often firing; and ſome of the Locks broke, which we fired with Matches, one taking Aim, and the other giving Fire. Then we reſolved to convey half a Barrel of Powder into the Round-houſe, to blow up the Poop, which accordingly we conveyed there, and fired, but did not the expected Ex<g ref="char:EOLhyphen"/>ecution. Finding no other means, but to venture at all, reſolving they ſhould not have the Ship, we carried a whole Barrel of Powder into the former place, and ſet Fire thereto, but it did not the expected Execution in blowing up the Deck; the reaſon we ſuppoſe to be, was by the Bulk head being down, and the Powder decayed. Then we reſolved to Sally with our Swords, half Pikes, and Javelings, which accordingly we did; they having Fire-Arms were too hard for
+<pb n="2" facs="tcp:104416:2"/> us; we had one Man killed, but took two of theirs Priſoners: We Sallied again, and mounted the Quarter Deck; they being on the Poop, in the Mizen Sh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rds and Tops, and ſome over the Ships Quarter: We bid them caſt over-board their Arms, and they ſhould have good Quarter, and they ſaid if we did not lay down our Arms and Sur<g ref="char:EOLhyphen"/>render, we ſhould have no Quarter: They fired ſeveral ſmall Arms, which fired one of our Mens Eyes almoſt out, either they had no ſhot in them, or were bad Marks-men, otherwiſe they muſt needs have killed many of us. After a long Parley, they begun to Surrender. The Ship was on fire on the Larboard Quarter, which I judge was cauſed by the laſt Barrel of Powder we blew up. We ſecured their Offi<g ref="char:EOLhyphen"/>cers, and ſet their Men and ſome of ours to the Pump, and putting the Fire out, o<g ref="char:EOLhyphen"/>thers to Trimming the Sails; the Rigging was ſo much cut and ſhot, that we could not brace the Yards, and ſhe was a ſhoar immediately, and the Fire as high as the Mizen Top: In the interim we were doing this, the Ship ſtruck againſt the Rocks, about a Mile from a place called <hi>Vintrey,</hi> and three Miles from hence. The Man of War lay all this while hovering about a Mile from us: In the time of our Fight, we gave him our Larboard Guns, which was the laſt ſalute he received from us: 'tis ſup<g ref="char:EOLhyphen"/>pos'd he receiv'd more dammage than we can imagine; otherwiſe his Men ſay he would have boarded us again, for they call'd to him on our Poop to come, ſignifying if they did, the Ship would be theirs. After we had Conquered them that were on Board; we found they were 35, or 40 ſound men, far exceeding our Number; but the Ship running a ſhoar, we all were left to the mercy of the Fire and Water, the firſt was ſoon got to our Main Maſt. We had 3 Men killed, and about 7 wound<g ref="char:EOLhyphen"/>ed in the Action, 1 Dyed on the Rocks of his Wounds, and about 4 Drown'd and Starv'd with Cold: It was about 7 at Night when we ran a ſhore, and nigh 12 be<g ref="char:EOLhyphen"/>fore all were got off, there going a great Sea. Here is conſtantly, as People tell us, Men of War and Privateers of the Enemies Cruizing off of this Port: I have ſeen 2 (three or four times) and now they lay nigh the <hi>B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>asketts;</hi> tho' it pleaſed God four Days ſince, a ſmall Ship called the <hi>Suſanna,</hi> belonging to <hi>Briſtol,</hi> about 100 Tünns, <hi>John Vic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are</hi> Maſter, from <hi>Mevis,</hi> got ſafe in. The Man of War that we fought, was of 36 Guns and 280 Men, called the <hi>Marine</hi> of <hi>Breſt,</hi> Commanded by Captain <hi>Neagle.</hi> They had a great many <hi>Engliſh</hi> and <hi>Iriſh</hi> men on Board: Some of our Pri<g ref="char:EOLhyphen"/>ſoners are <hi>Engliſh</hi> Men. The Country hath ſecured 27, the moſt of note are Eſcaped. One <hi>Fitz Gerrard</hi> who was the Commiſſary, had a Letter found in his Pocket, of ſome Importance.</p>
+            <list>
+               <head>Men Dead in the Voyage.</head>
+               <item>
+                  <hi>Hugh Levelis</hi> Chief Mate.</item>
+               <item>
+                  <hi>Richard Foſter.</hi>
+               </item>
+               <item>
+                  <hi>Job Herbert.</hi>
+               </item>
+               <item>
+                  <hi>John Hawkins.</hi>
+               </item>
+               <item>
+                  <hi>John Hobbs.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Eales.</hi>
+               </item>
+               <item>
+                  <hi>Robert Lee,</hi> Gunner.</item>
+               <item>
+                  <hi>George William</hi> a Dutchman.</item>
+               <item>
+                  <hi>John Jackſon.</hi>
+               </item>
+               <item>
+                  <hi>William Thornehurſt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Killed in the Action.</head>
+               <item>Mr. <hi>John Plucknett.</hi>
+               </item>
+               <item>Mr. <hi>Walter Aſton.</hi>
+               </item>
+               <item>
+                  <hi>Abraham Starke</hi> a Dutch man.</item>
+            </list>
+            <list>
+               <head>Drown'd and Died upon the Rocks.</head>
+               <item>
+                  <hi>William Merton.</hi>
+               </item>
+               <item>
+                  <hi>John Waton.</hi>
+               </item>
+               <item>
+                  <hi>Harman Mire</hi> a Dutchman.</item>
+               <item>
+                  <hi>Edward Rutteridge.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Carried Priſoners to <hi>France.</hi>
+               </head>
+               <item>
+                  <hi>Robert Hudſon.</hi>
+               </item>
+               <item>
+                  <hi>Ralph Porter.</hi>
+               </item>
+               <item>
+                  <hi>John Adean.</hi>
+               </item>
+               <item>
+                  <hi>John Daynes.</hi>
+               </item>
+               <item>
+                  <hi>Edward Brumidge.</hi>
+               </item>
+               <item>
+                  <hi>Edmond Duke.</hi>
+               </item>
+               <item>
+                  <hi>Phillip Lee.</hi>
+               </item>
+               <item>
+                  <hi>Henry Lewis,</hi> and 5 more.</item>
+            </list>
+            <p>What I have here Writ, is a True Account of the Action, and more we could not do to ſave the Ship. I thank God I eſcaped with Life, and received no other Da<g ref="char:EOLhyphen"/>mage than a ſmall Blaſt, which took the left ſide of my Face, and ſcorched me a little; my Eye was hurt, but now I thank God I am well of it. There is not a proſpect of much to be ſaved, for there is a Storm now which hath ſhatter'd her bottom all to pieces, and the Canes are floating about the Sea.</p>
+            <closer>
+               <signed>I am, Your Affectionate Brother, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. E.</hi> and are to be Sold by <hi>J. Whitlock</hi> near <hi>Stationers-Hall,</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
